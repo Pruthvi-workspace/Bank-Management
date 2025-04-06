@@ -1,12 +1,3 @@
-Here’s a complete and HTML-styled `README.md` file for your **Online Banking System V2.0.2** project, using structured formatting with full content in one go (copy-paste ready):
-
----
-
-```markdown
-<h1 align="center">💰 Online Banking System V2.0.2</h1>
-<h3 align="center">A Django-powered modern banking solution with Celery, Redis, and Tailwind CSS</h3>
-
----
 
 ## 🔥 Project Description
 
